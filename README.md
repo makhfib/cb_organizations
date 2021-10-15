@@ -21,8 +21,8 @@ El dataset se ha elaborado con el objetivo de ayudar a los fondos de capital rie
 ## Contenido
 En el presente repositorio puedes encontrar:
 
-1. Código fuente utilizado en la extracción del conjunto de datos
-2. Documento PDF respondiendo a las cuestiones planteadas en la práctica (Máster en Ciencias de Datos, Universitat Oberta de Catalunya)
+1. cb_organizations_ws.ipynb: Código fuente utilizado en la extracción del conjunto de datos aplicando la técnica de *web scraping*
+2. Prac1_Mohammed_Makhfi_Norhan_Mohamed.pdf: Documento PDF respondiendo a las cuestiones planteadas en la práctica (Máster en Ciencias de Datos, Universitat Oberta de Catalunya)
 
 ## Dataset
 El *dataset* generado se encuentra en Zenodo: https://zenodo.org/record/5572871.
